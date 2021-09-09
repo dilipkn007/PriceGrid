@@ -50,6 +50,7 @@ h2{
   display: grid;
   grid-template-columns: 50% 50%;
   grid-template-rows: 45% 55%;
+  box-shadow:-1px -1px 40px 8px rgba(126, 126, 128, 0.541) ;
 }
 .one{
   background-color:white;
